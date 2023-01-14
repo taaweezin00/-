@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "โปรแกรมสำหรับบันทึกข้อมูลนักศึกษา/1.0.0": {
+        "runtime": {
+          "โปรแกรมสำหรับบันทึกข้อมูลนักศึกษา.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "โปรแกรมสำหรับบันทึกข้อมูลนักศึกษา/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
